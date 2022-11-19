@@ -28,7 +28,7 @@
     "css-loader": "^3.2.0",
     "file-loader": "^4.2.0",
     "html": "^1.0.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "json-loader": "^0.5.7",
     "node-sass": "^4.13.0",
     "plugin": "^0.3.3",
@@ -38,7 +38,7 @@
     "vue-loader": "^15.7.1",
     "vue-template-compiler": "^2.6.10",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.9.0"
   },
   "description": "��#\u0000 \u0000d\u0000a\u0000t\u0000a\u0000A\u0000n\u0000a\u0000l\u0000y\u0000s\u0000i\u0000s\u0000\r\u0000 \u0000\r\u0000 \u0000#\u0000#\u0000#\u0000 \u0000Sb\u0000_\u001a�\r\u0000 \u0000\r\u0000 \u00001\u0000.\u0000 \u0000n\u0000p\u0000m\u0000 \u0000i\u0000n\u0000i\u0000t\u0000 \u0000-\u0000y\u0000\r\u0000 \u00002\u0000.\u0000 \u0000n\u0000p\u0000m\u0000 \u0000i\u0000\r\u0000 \u00003\u0000.\u0000 \u0000n\u0000p\u0000m\u0000 \u0000r\u0000u\u0000n\u0000 \u0000d\u0000e\u0000v\u0000\r\u0000 \u0000",
